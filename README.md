@@ -1,4 +1,4 @@
-# DevOps Collaboration Lab 🚀
+# DevOps Collaboration Lab
 
 Welcome to the **DevOps Collaboration and Workflow Practice Repository**. This repository is created for our university DevOps course lab to practice modern version control workflows, team collaboration strategies, and continuous integration foundations using **Git** and **GitHub**.
 
